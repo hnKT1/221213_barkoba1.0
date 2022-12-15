@@ -5,3 +5,4 @@ Igen
 Konyhai eszköz?
 Igen
 Evőeszköz?
+Nem
